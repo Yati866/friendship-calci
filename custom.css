@@ -1,0 +1,10 @@
+@media only screen and (min-width: 494px){
+	.card{
+		width:  75% !important;
+	}
+}
+@media only screen and (min-width: 1255px){
+	.card{
+		width:  50% !important;
+	}
+}
